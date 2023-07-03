@@ -7,18 +7,12 @@ http://80.79.6.221:25461/smash/public/20
 http://80.79.6.221:25461/smash/public/21
 #EXTINF:-1 tvg-id="" tvg-name="NET" tvg-logo="http://80.79.6.221:25461/images/icons/local/NET.png" group-title="Malta TV",NET
 http://80.79.6.221:25461/smash/public/22
-#EXTINF:-1 tvg-id="" tvg-name="Parliament TV" tvg-logo="http://80.79.6.221:25461/images/icons/local/ParliamentTV.png" group-title="Malta TV",Parliament TV
-http://80.79.6.221:25461/smash/public/23
 #EXTINF:-1 tvg-id="" tvg-name="Smash TV" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashTV.png" group-title="Malta TV",Smash TV
 http://80.79.6.221:25461/smash/public/1
+#EXTINF:-1 tvg-id="" tvg-name="Parliament TV" tvg-logo="http://80.79.6.221:25461/images/icons/local/ParliamentTV.png" group-title="Malta TV",Parliament TV
+http://80.79.6.221:25461/smash/public/23
 #EXTINF:-1 tvg-id="" tvg-name="Smash Radio 104.6FM" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashRADIO.png" group-title="Smash Communications",Smash Radio 104.6FM
 http://80.79.6.221:25461/smash/public/3
-#EXTINF:-1 tvg-id="" tvg-name="Smash Talk" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashTALK.png" group-title="Smash Communications",Smash Talk
-http://80.79.6.221:25461/smash/public/15
-#EXTINF:-1 tvg-id="" tvg-name="Smash 7News" tvg-logo="http://80.79.6.221:25461/images/icons/smash/Smash7News.png" group-title="Smash Communications",Smash 7News
-http://80.79.6.221:25461/smash/public/16
-#EXTINF:-1 tvg-id="" tvg-name="TV2000" tvg-logo="" group-title="Undefined",TV2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" group-title="Radio",One
 https://s10.voscast.com:8203/stream
 #EXTINF:-1 tvg-id="" tvg-name="VibeFM" tvg-logo="" group-title="Radio",VibeFM
