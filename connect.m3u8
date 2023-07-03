@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="One.mt" tvg-logo="http://80.79.6.221:25461/images/icons/local/ONE.png" group-title="Undefined",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="tvm.com.mt" tvg-logo="https://prodcms.go.com.mt/wp-content/uploads/2018/11/TVM-Logo.png" group-title="TVM Malta",TVM
+https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE0NjQ3ODkyLCJhdWQiOiIxOTUuMTU4Ljc0LjE0OSIsImV4cCI6MTY4ODMyMjg1OH0.DHkUXSI4GuURLQn1x-x11Lo2Z2NFHtOKx4F_b3lazDM/live/2/0/index.m3u8
+#EXTINF:-1 tvg-id="tvm.com.mt" tvg-logo="https://prodcms.go.com.mt/wp-content/uploads/2018/11/TVM-NEWS.png" group-title="TVM Malta",TVM News+
+https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE0NjQ3ODkyLCJhdWQiOiIxOTUuMTU4Ljc0LjE0OSIsImV4cCI6MTY4ODMyMjg1OH0.DHkUXSI4GuURLQn1x-x11Lo2Z2NFHtOKx4F_b3lazDM/live/3/0/index.m3u8
+#EXTINF:-1 tvg-id="tvm.com.mt" tvg-logo="" group-title="TVM Malta",TVM Sport+
+https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE0NjQ3ODkyLCJhdWQiOiIxOTUuMTU4Ljc0LjE0OSIsImV4cCI6MTY4ODMyMjg1OH0.DHkUXSI4GuURLQn1x-x11Lo2Z2NFHtOKx4F_b3lazDM/live/4/master.m3u8
+#EXTINF:-1 tvg-id="netondemand.mt" tvg-logo="http://80.79.6.221:25461/images/icons/local/NET.png" group-title="Undefined",Net
+https://netondemand.mt:8443/live/net/chunklist_w1514449552_tkdG9rZW5zdGFydHRpbWU9MTY4ODI0MDIwNCZ0b2tlbmVuZHRpbWU9MTY4ODI4MzQwNCZ0b2tlbmhhc2g9WlFjVkJpUG15MmxiUWE4di1KTDBicnB3LWpwT0hhTnNSZ0c3ZTMyZWNZQT0=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smash TV" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashTV.png" group-title="Smash Communications",Smash TV
+http://80.79.6.221:25461/smash/public/1
+#EXTINF:-1 tvg-id="" tvg-name="Smash Radio 104.6FM" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashRADIO.png" group-title="Smash Communications",Smash Radio 104.6FM
+http://80.79.6.221:25461/smash/public/3
+#EXTINF:-1 tvg-id="" tvg-name="Smash Talk" tvg-logo="http://80.79.6.221:25461/images/icons/smash/SmashTALK.png" group-title="Smash Communications",Smash Talk
+http://80.79.6.221:25461/smash/public/15
+#EXTINF:-1 tvg-id="" tvg-name="Smash 7News" tvg-logo="http://80.79.6.221:25461/images/icons/smash/Smash7News.png" group-title="Smash Communications",Smash 7News
+http://80.79.6.221:25461/smash/public/16
+#EXTINF:-1 tvg-id="" tvg-name="Parliament TV" tvg-logo="http://80.79.6.221:25461/images/icons/local/ParliamentTV.png" group-title="Malta",Parliament TV
+http://80.79.6.221:25461/smash/public/23
+#EXTINF:-1 tvg-id="" tvg-name="TV2000" tvg-logo="" group-title="Undefined",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_3000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" group-title="Radio",One
+https://s10.voscast.com:8203/stream
+#EXTINF:-1 tvg-id="" tvg-name="VibeFM" tvg-logo="" group-title="Radio",VibeFM
+https://s9.voscast.com:7825/1
+#EXTINF:-1 tvg-id="" tvg-name="BayRadio" tvg-logo="" group-title="Radio",Bay Radio
+https://stream.v3.network:18022/;stream.mp3?_=1
+#EXTINF:-1 tvg-id="" tvg-name="BayEasy" tvg-logo="" group-title="Radio",Bay Easy
+https://stream.v3.network:18018/stream.mp3?_=1
+#EXTINF:-1 tvg-id="" tvg-name="BayRetro" tvg-logo="" group-title="Radio",Bay Retro
+https://stream.v3.network:18014/stream.mp3?_=1
